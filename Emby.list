@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,embyclub.com
 IP-CIDR,142.54.186.202/32,no-resolve
 IP-CIDR,23.97.66.195/32,no-resolve
 IP-CIDR,172.67.142.177/32,no-resolve
+IP-CIDR,104.21.54.225/32,no-resolve
