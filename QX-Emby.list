@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,pub1.emby.wtf,Emby
 DOMAIN-SUFFIX,pub2.emby.wtf,Emby
 DOMAIN-SUFFIX,pub3.emby.wtf,Emby
 DOMAIN-SUFFIX,emby.flowercloud.yt,Emby
+DOMAIN-SUFFIX,embygy.misakaf.xyz,Emby
+DOMAIN-SUFFIX,embyaz.misakaf.xyz,Emby
 IP-CIDR,142.54.186.202/32,Emby
 IP-CIDR,172.67.142.177/32,Emby
 IP-CIDR,129.154.48.185/32,Emby
