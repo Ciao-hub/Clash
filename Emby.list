@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,embygy.misakaf.xyz
 DOMAIN-SUFFIX,embyaz.misakaf.xyz
 DOMAIN-SUFFIX,hs.gcx920110.com
 DOMAIN-SUFFIX,sg.gcx920110.com
+DOMAIN-SUFFIX,jable.tv
 IP-CIDR,142.54.186.202/32,no-resolve
 IP-CIDR,23.97.66.195/32,no-resolve
 IP-CIDR,172.67.142.177/32,no-resolve
